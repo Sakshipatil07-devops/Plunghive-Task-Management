@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+server/src/db/tasks.db
+server/src/db/tasks.db-*
+
+infra/.terraform/
+infra/*.tfstate
+infra/*.tfstate.backup
+infra/*.tfvars
+infra/crash.log
